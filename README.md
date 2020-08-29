@@ -28,6 +28,7 @@
 - CardItem component
 - Add more Pages
 - Update Route
+- Footer component
 
 ### After this project
 
