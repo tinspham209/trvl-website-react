@@ -9,6 +9,7 @@
 ### Tech-Stack
 
 - React
+- FontAwesome CDN
 
 ### Deploy
 
@@ -19,8 +20,10 @@
 
 - Initial Project
 - Import image, videos
+- Setup Router
 - Navbar component
 - Create Button component
+- Hero component
 
 ### After this project
 
