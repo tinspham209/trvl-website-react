@@ -3,6 +3,7 @@ import "../../App.css";
 import HeroSection from "../HeroSection";
 import Cards from "../Cards";
 import { uniqueId } from "../../utils";
+import Footer from "../Footer";
 
 const getTravelBlogsLarge = () => {
 	const json = {
@@ -63,6 +64,7 @@ const Home = () => {
 		<>
 			<HeroSection />
 			<Cards blogsLarge={blogsLarge} blogsMedium={blogsMedium} />
+			<Footer />
 		</>
 	);
 };
