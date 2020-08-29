@@ -24,6 +24,10 @@
 - Navbar component
 - Create Button component
 - Hero component
+- Cards component
+- CardItem component
+- Add more Pages
+- Update Route
 
 ### After this project
 
