@@ -20,6 +20,7 @@
 - Initial Project
 - Import image, videos
 - Navbar component
+- Create Button component
 
 ### After this project
 
